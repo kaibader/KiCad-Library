@@ -1,0 +1,6 @@
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.net
+.dsn
