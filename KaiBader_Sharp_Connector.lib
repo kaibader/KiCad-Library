@@ -3,8 +3,8 @@ EESchema-LIBRARY Version 2.3
 #
 # Sharp_Connector_40
 #
-DEF Sharp_Connector_40 U 0 40 Y Y 1 L N
-F0 "U" 200 250 60 H V L CNN
+DEF Sharp_Connector_40 P 0 40 Y Y 1 L N
+F0 "P" 200 250 60 H V L CNN
 F1 "Sharp_Connector_40" 200 150 60 H V L CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
@@ -55,8 +55,8 @@ ENDDEF
 #
 # Sharp_Connector_60
 #
-DEF Sharp_Connector_60 U 0 40 Y Y 1 L N
-F0 "U" 200 250 60 H V L CNN
+DEF Sharp_Connector_60 P 0 40 Y Y 1 L N
+F0 "P" 200 250 60 H V L CNN
 F1 "Sharp_Connector_60" 200 150 60 H V L CNN
 F2 "" 0 0 60 H V C CNN
 F3 "" 0 0 60 H V C CNN
