@@ -1,4 +1,4 @@
-(module KaiBader_Sharp_Connector:HIF6A-60PA-1.27DS (layer F.Cu) (tedit 56B7B680)
+(module HIF6A-60PA-1.27DS (layer F.Cu) (tedit 56B7B680)
   (descr "Layout for the Sharp PC (Compatible) Connector HIF6A-60PA-1.27DS")
   (tags "SHARP PC CONNECTOR HIF6A-60PA-1.27DS")
   (attr virtual)

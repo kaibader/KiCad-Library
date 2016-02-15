@@ -1,4 +1,4 @@
-(module KaiBader_Sharp_Connector:JAE-PICL-60P-ST (layer F.Cu) (tedit 56B7BC02)
+(module JAE-PICL-60P-ST (layer F.Cu) (tedit 56B7BC02)
   (descr "Layout for the Sharp PC Connector JAE-PICL-60P-ST")
   (tags "SHARP PC CONNECTOR JAE-PICL-60P-ST")
   (attr virtual)

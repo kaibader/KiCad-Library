@@ -1,4 +1,4 @@
-(module KaiBader_Sharp_Connector:JAE-HIF6A-HIF6B-COMBINED (layer F.Cu) (tedit 56C251E9)
+(module JAE-HIF6A-HIF6B-COMBINED (layer F.Cu) (tedit 56C251E9)
   (descr "Combined Layout for three Sharp PC (Compatible) Connector Types.")
   (tags "SHARP PC CONNECTOR")
   (attr virtual)
