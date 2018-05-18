@@ -1,7 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP Raspberry_Pi_GPIO_Connector
-D Paspberry Pi GPIO Connector
+$CMP RASPBERRY_PI_GPIO_CONNECTOR
+D Raspberry Pi GPIO Connector
 K raspberry gpio connector
 $ENDCMP
 #
