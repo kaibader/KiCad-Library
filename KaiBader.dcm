@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AS6C62256
+D 32k x 8 bit low power CMOS SRAM
+K SRAM 32kx8
+$ENDCMP
+#
 $CMP RASPBERRY_PI_GPIO_CONNECTOR
 D Raspberry Pi GPIO Connector
 K raspberry gpio connector
