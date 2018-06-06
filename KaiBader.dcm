@@ -15,4 +15,8 @@ D 24-bit Fet Bus Switch with Level Shifting
 K Bus Switch Level Shifting
 $ENDCMP
 #
+$CMP SN74CBTD3861
+D 10-bit Fet Bus Switch with Level Shifting
+$ENDCMP
+#
 #End Doc Library
