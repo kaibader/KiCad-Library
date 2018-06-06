@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP +4V7
+D power-flag symbol +4.7V
+K Power Flag Symbol
+$ENDCMP
+#
 $CMP AS6C62256
 D 32k x 8 bit low power CMOS SRAM
 K SRAM 32kx8
