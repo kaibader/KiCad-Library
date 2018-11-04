@@ -29,4 +29,10 @@ $CMP SN74CBTD3861
 D 10-bit Fet Bus Switch with Level Shifting
 $ENDCMP
 #
+$CMP XC6206
+D XC6206
+K Low ESR Positive Voltage Regulator
+F https://www.torexsemi.com/file/xc6206/XC6206.pdf
+$ENDCMP
+#
 #End Doc Library
