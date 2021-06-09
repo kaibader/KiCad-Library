@@ -25,11 +25,6 @@ D WeMos Lolin32
 K ESP32 LOLIN32
 $ENDCMP
 #
-$CMP RASPBERRY_PI_GPIO_CONNECTOR
-D Raspberry Pi GPIO Connector
-K raspberry gpio connector
-$ENDCMP
-#
 $CMP SN74CBTD16211
 D 24-bit Fet Bus Switch with Level Shifting
 K Bus Switch Level Shifting
