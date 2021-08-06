@@ -23,6 +23,12 @@ D ESP32-PICO-D4 SIP
 K ESP32 PICO D4
 $ENDCMP
 #
+$CMP FM18W08
+D 32K x8 Ferroelectric F-RAM Memory
+K FRAM
+F https://www.cypress.com/file/136521/download
+$ENDCMP
+#
 $CMP IS62C256AL
 D 32K x8 CMOS STATIC RAM
 $ENDCMP
